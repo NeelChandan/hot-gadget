@@ -1,0 +1,30 @@
+.container{
+    margin-bottom: 100px;
+
+}
+.1st{
+    background-image: url("bg-1.png");
+}
+.card-footer{
+    background-color: none;
+    background:white;
+    border: none; 
+}
+.card img {
+    padding-top: 30px;
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.link-dec{
+    text-decoration: none;
+    color: black;
+    
+
+}
+.sin-cat{
+    padding: 70px 0px;
+    border-radius:  0px 20px 0px 20px;
+    text-align: center;
+}
